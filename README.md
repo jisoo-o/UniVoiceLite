@@ -1,19 +1,12 @@
-# Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation
+# [ASRU 2025] Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation
 
-**Official Implementation** of our **ASRU 2025** paper:  
-**"Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation"**
+
+> Official implementation of "[Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation]" (ASRU '25) Jisoo Park\*, Seonghak Lee\*, Guisik Kim, Taewoo Kim, Junseok Kwon
+
 
 <p align="center">
-  <img src="asset/fig1.png" alt="Model Figure" width="80%">
+  <img src="asset/pipeline.png" alt="Model Figure" width="80%">
 </p>
-
----
-
-## Paper
-- **Authors**: Jisoo Park\*, Seonghak Lee\*, Guisik Kim, Taewoo Kim, Junseok Kwon  
-  (* equal contribution)
-- **Conference**: IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) 2025
-- **Paper Link**: [Coming Soon]
 
 ---
 
