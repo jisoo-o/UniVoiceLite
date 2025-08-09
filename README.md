@@ -33,8 +33,8 @@ In this work, we propose *UniVoiceLite*, a lightweight and unsupervised audio-vi
 
 ## Installation
 ```bash
-git clone https://github.com/your_username/your_repo.git
-cd your_repo
+git clone https://github.com/jisoo-o/UniVoiceLite.git
+cd UniVoiceLite
 pip install -r requirements.txt
 ```
 
