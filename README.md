@@ -32,9 +32,8 @@ pip install -r requirements.txt
 ```
 
 ##  Dataset Preparation
-We use the **GRID** dataset (audio + video).  
-The GRID Corpus dataset can be downloaded at:  
-https://spandh.dcs.shef.ac.uk/gridcorpus/  
+We use the **GRID** dataset (audio + video). The GRID Corpus dataset can be downloaded at:  
+https://spandh.dcs.shef.ac.uk/gridcorpus/ 
 or using the provided script:
 ```bash
 sh gridcorpus.sh
