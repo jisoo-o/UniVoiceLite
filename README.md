@@ -63,6 +63,11 @@ python train.py \
     --beta 0.9 \
     --pgrad 0.2
 ```
+---
+
+## TODO
+- [ ] Upload pretrained weights
+- [ ] Release inference code
 
 ---
 ## Acknowledgements
