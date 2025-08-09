@@ -76,7 +76,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{park2025lightweight
   title     = {Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation},
-  author    = {Jisoo Park and Seonghak Lee and Guisik Kim and Taewoo Kim and Junseok Kwon},
+  author    = {Park, Jisoo and Lee, Seonghak Lee and Kim, Guisik and Kim, Taewoo and Kwon, Junseok},
   booktitle = {Proc. IEEE ASRU},
   year      = {2025}
 }
